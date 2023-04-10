@@ -1,0 +1,7 @@
+<RIBCL VERSION="2.0">
+<LOGIN USER_LOGIN="Administrator" PASSWORD="xxxxxxx">
+<RIB_INFO MODE="read">
+<GET_ALL_LICENSES/>
+</RIB_INFO>
+</LOGIN>
+</RIBCL>
