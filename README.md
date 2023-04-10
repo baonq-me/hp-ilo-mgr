@@ -2,6 +2,8 @@
 
 ## Install HP Lights-Out Online Configuration Utility (hponcfg)
 
+Ref: https://techexpert.tips/hp-ilo/installing-hpilo-configuration-utility-ubuntu/
+
 Install the required packages.
 
 ```
