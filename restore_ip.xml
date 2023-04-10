@@ -1,0 +1,12 @@
+<RIBCL VERSION="2.0">
+ <LOGIN USER_LOGIN="Administrator" PASSWORD="xxxxxxx">
+ <RIB_INFO MODE="WRITE" >
+ <MOD_NETWORK_SETTINGS>
+ <IP_ADDRESS VALUE = "103.xxx.xxx.xxx"/>
+ <SUBNET_MASK VALUE = "255.xxx.xxx.xxx"/>
+ <GATEWAY_IP_ADDRESS VALUE = "103.xxx.xxx.xxx"/>
+ <DHCP_ENABLE VALUE = "N"/>
+ </MOD_NETWORK_SETTINGS>
+ </RIB_INFO>
+ </LOGIN>
+ </RIBCL>
